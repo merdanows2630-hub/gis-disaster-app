@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "GIS Betbagtçylyk",
+    "slug": "gis-disaster-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.gisdisaster.turkmenistan",
+      "versionCode": 1
+    },
+    "extra": {
+      "eas": {
+        "projectId": "your-project-id"
+      }
+    }
+  }
+}
