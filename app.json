@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "GIS Betbagtçylyk",
+    "name": "GIS Disaster App",
     "slug": "gis-disaster-app",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -11,8 +11,12 @@
     },
     "extra": {
       "eas": {
-        "projectId": "your-project-id"
+        "projectId": "5886d844-8c86-4b3d-8b40-ca2be89feb68"
       }
-    }
+    },
+    "owner": "merdanows2630",
+    "plugins": [
+      "expo-font"
+    ]
   }
 }
