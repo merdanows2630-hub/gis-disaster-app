@@ -5,22 +5,18 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
-    "splash": {
-      "backgroundColor": "#ffffff",
-      "resizeMode": "contain"
-    },
     "android": {
       "package": "com.gisdisaster.turkmenistan",
       "versionCode": 1
     },
-    "extra": {
-      "eas": {
-        "projectId": "5886d844-8c86-4b3d-8b40-ca2be89feb68"
-      }
-    },
-    "owner": "merdanows2630",
+    "owner": "atahanova",
     "plugins": [
       "expo-font"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "0af9dc37-fac8-4139-98fa-130fe5e7b15d"
+      }
+    }
   }
 }
